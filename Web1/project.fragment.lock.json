@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "exports": {
+    "Common/1.0.0": {
+      "type": "project",
+      "framework": ".NETFramework,Version=v4.5.2",
+      "compile": {
+        "bin/Debug/Common.dll": {}
+      },
+      "runtime": {
+        "../packages/LibGit2Sharp.0.23.0/lib/net40/LibGit2Sharp.dll": {},
+        "bin/Debug/Common.dll": {}
+      },
+      "contentFiles": {
+        "bin/Debug/Common.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true
+        },
+        "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../libgit2/libgit2sharp.dll.config": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true,
+          "outputPath": "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../libgit2/libgit2sharp.dll.config"
+        },
+        "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/linux-x64/native/libgit2-75db289.so": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true,
+          "outputPath": "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/linux-x64/native/libgit2-75db289.so"
+        },
+        "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/osx/native/libgit2-75db289.dylib": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true,
+          "outputPath": "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/osx/native/libgit2-75db289.dylib"
+        },
+        "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/win7-x64/native/git2-75db289.dll": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true,
+          "outputPath": "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/win7-x64/native/git2-75db289.dll"
+        },
+        "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/win7-x64/native/git2-75db289.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true,
+          "outputPath": "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/win7-x64/native/git2-75db289.pdb"
+        },
+        "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/win7-x86/native/git2-75db289.dll": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true,
+          "outputPath": "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/win7-x86/native/git2-75db289.dll"
+        },
+        "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/win7-x86/native/git2-75db289.pdb": {
+          "buildAction": "None",
+          "codeLanguage": "any",
+          "copyToOutput": true,
+          "outputPath": "c:/users/it20050/documents/visual studio 2015/projects/testbug/packages/libgit2sharp.nativebinaries.1.0.163/build//../runtimes/win7-x86/native/git2-75db289.pdb"
+        }
+      }
+    }
+  }
+}
